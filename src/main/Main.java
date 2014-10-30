@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-import com.sun.org.apache.bcel.internal.generic.LSTORE;
-
 public class Main 
 {
 	public static ArrayList<List> lists = new ArrayList<List>();
@@ -71,7 +69,9 @@ public class Main
 			
 			System.out.println();
 			
+			@SuppressWarnings("resource")
 			Scanner keyboard = new Scanner(System.in);
+			
 			int choice = 0;
 			
 			while (choice<1 || choice >3)
