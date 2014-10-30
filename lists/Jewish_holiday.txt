@@ -1,0 +1,50 @@
+Rosh Hashana
+Yom Kippur
+Sukkot
+Shmini Atzeret
+Simchat Torah
+Chanukah
+Purim
+Pesach
+Shavuot
+Tish'a B'Av
+Minor holidays
+Holiday
+Tu BiShvat
+Purim Katan
+Shushan Purim
+Days of the Omer
+Pesach Sheni
+Lag B'Omer
+Leil Selichot
+Tzom Gedaliah
+Asara B'Tevet
+Ta'anit Esther
+Ta'anit Bechorot
+Tzom Tammuz
+Yom HaShoah
+Yom HaZikaron
+Yom HaAtzma'ut
+Yom Yerushalayim
+Shabbat Shuva
+Shabbat Shekalim
+Shabbat Zachor
+Shabbat Parah
+Shabbat HaChodesh
+Shabbat HaGadol
+Shabbat Chazon
+Shabbat Nachamu
+Shabbat Rosh Chodesh
+Shabbat Machar Chodesh
+Rosh Chodesh Cheshvan
+Rosh Chodesh Kislev
+Rosh Chodesh Tevet
+Rosh Chodesh Sh'vat
+Rosh Chodesh Adar
+Rosh Chodesh Adar II
+Rosh Chodesh Nisan
+Rosh Chodesh Iyyar
+Rosh Chodesh Sivan
+Rosh Chodesh Tamuz
+Rosh Chodesh Av
+Rosh Chodesh Elul
