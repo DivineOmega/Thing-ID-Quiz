@@ -40,10 +40,7 @@ public class Main
 			List activeList = lists.get(0);
 			String activeWord = activeList.getRandomWord();
 			
-			String a_or_an = "a";
-			if (activeWord.charAt(0)=='a' || activeWord.charAt(0)=='e' || activeWord.charAt(0)=='i' || activeWord.charAt(0)=='o' || activeWord.charAt(0)=='u') a_or_an = "an";
-			
-			System.out.println("What is "+a_or_an+" "+activeWord+"?");
+			System.out.println("What is "+activeWord+"?");
 						
 			ArrayList<List> listOptions = new ArrayList<List>();
 			
@@ -94,11 +91,11 @@ public class Main
 			
 			if (selectedList==activeList)
 			{
-				System.out.println("Correct, "+a_or_an+" "+activeWord+" is a "+activeList.getName()+".");
+				System.out.println("Correct, "+activeWord+" is a "+activeList.getName()+".");
 			}
 			else
 			{
-				System.out.println("Wrong, "+a_or_an+" "+activeWord+" is a "+activeList.getName()+".");
+				System.out.println("Wrong, "+activeWord+" is a "+activeList.getName()+".");
 			}
 			
 			System.out.println();
