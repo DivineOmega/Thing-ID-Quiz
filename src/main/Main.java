@@ -66,7 +66,6 @@ public class Main
 			
 			System.out.println();
 			
-			@SuppressWarnings("resource")
 			Scanner keyboard = new Scanner(System.in);
 			
 			int choice = 0;
