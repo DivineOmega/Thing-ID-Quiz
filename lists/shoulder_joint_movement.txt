@@ -1,0 +1,6 @@
+flexion
+extension
+abduction
+adduction
+lateral rotation
+medial rotation
