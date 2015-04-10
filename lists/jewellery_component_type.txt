@@ -1,0 +1,6 @@
+cameos
+emblem
+finding
+locket
+medallion
+pendant
