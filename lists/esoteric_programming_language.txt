@@ -1,0 +1,17 @@
+Ante
+ArnoldC
+Befunge
+Binary lambda calculus
+brainfuck
+Chef
+FALSE
+GolfScript
+INTERCAL
+LOLCODE
+Malbolge
+One instruction set computer
+Ook!
+Piet
+Rocket
+Shakespeare
+Whitespace
